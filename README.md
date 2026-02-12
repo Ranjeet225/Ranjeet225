@@ -50,7 +50,6 @@ I am a results-oriented **Senior FullStack Developer** with over **4 years of ex
 
 ### 📬 Connect with Me
 - 📧 **Email:** [ranjeetmaurya2033@gmail.com](mailto:ranjeetmaurya2033@gmail.com)
-- 📱 **Mobile:** +91 7217645059
 - 📍 **Location:** Noida, Uttar Pradesh
 
 ---
