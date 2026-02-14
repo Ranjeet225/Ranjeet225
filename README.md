@@ -21,8 +21,8 @@ I am a results-oriented **Senior FullStack Developer** with over **4 years of ex
 
 | Category | Skills |
 | :--- | :--- |
-| **Backend** | PHP (Laravel, CodeIgniter), Python, WordPress, REST APIs |
-| **Frontend** | HTML5, CSS3, JavaScript, jQuery, Bootstrap, React.js (Basic) |
+| **Backend** | PHP (Laravel, CodeIgniter), Python, WordPress, REST APIs,Node.js |
+| **Frontend** | HTML5, CSS3, JavaScript, jQuery, Bootstrap, React.js ,Next.js |
 | **AI Tools** | Cursor, Gemini Pro, Zed, GitHub Copilot, ChatGPT |
 | **Infrastructure** | Vultr, Git, cPanel, HPanel, Postman, Composer |
 | **Key Integrations** | Razorpay, PayU, Shiprocket, Firebase, WebSockets |
